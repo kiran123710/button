@@ -18,7 +18,7 @@
                   </q-input>
                 </q-item>
                 <q-item clickable @click="openAddDialog" v-model="addStudent">
-                  <q-item-section>Add Student</q-item-section>
+                  <q-item-section> Student</q-item-section>
                 </q-item>
               </q-list>
             </q-menu>
